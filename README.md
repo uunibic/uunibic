@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uunibic
 - 👀 I’m interested in securing network infrastructure.
-- 🌱 I’m currently learning ethical hacking.
+- 🌱 I’m currently learning about ethical hacking.
 - 💞️ I’m looking to collaborate on a project based on InfoSec.
 - 📫 You can reach me via Twitter and LinkedIn :)
 
