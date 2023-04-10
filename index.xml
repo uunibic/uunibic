@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahesh Jandwani</title>
+    <link>https://maheshjandwani.tech/</link>
+    <description>Recent content on Mahesh Jandwani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2023, Mahesh Jandwani</copyright><atom:link href="https://maheshjandwani.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://maheshjandwani.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maheshjandwani.tech/about/</guid>
+      <description>About Hello 👋 I’m Mahesh Jandwani. I live in Abu Road, Rajasthan.
+I’m a security engineer at ACKO working on the cloud and product security. I’ve done my studies in Computer Science and Engineering from the JECRC University of Jaipur, Rajasthan.
+Previously, I’ve worked as a Penetration Tester intern at ThreatHawk and Cloud Security Associate at Virtually Testing Foundation.
+Contact You can reach me by email at maheshjhandwani9999@gmail.com. You can also connect with me on LinkedIn, GitHub, and Twitter.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://maheshjandwani.tech/certificates/my-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maheshjandwani.tech/certificates/my-certificates/</guid>
+      <description>Certificates Google Cloud Certified Professional Cloud Security Engineer EC-Council - Certified Ethical Hacker v11 AWS Cloud Quest: Cloud Practitioner Google Workspace Security Microsoft Certified: Security Engineer Associate Microsoft Certified: Identity &amp;amp; Access Management Microsoft Certified: Azure Security Engineer Associate Microsoft 365 Certified: Security Administrator Microsoft Certified: Security Operations Analyst Associate Microsoft Certified: Security, Compliance, Identity Fundamentals CCNP: Core Networking CCNA v7: Introduction to Networks Cisco CyberOps Associate Cisco Cybersecurity Essentials Splunk Infrastructure Overview Splunk User Behaviour Analytics Splunk Fundamentals </description>
+    </item>
+    
+  </channel>
+</rss>
