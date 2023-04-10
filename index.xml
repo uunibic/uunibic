@@ -18,12 +18,12 @@
     </item>
     
     <item>
-      <title>Android Penetration Testing Setup on Macbook M1</title>
+      <title>Android Pen-testing Environment Setup on M1 Mac</title>
       <link>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</link>
       <pubDate>Sat, 08 Apr 2023 19:18:05 +0530</pubDate>
       
       <guid>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</guid>
-      <description>If you have got yourself a Mac to get better in hacking (ofcourse ethically), then you might have already tried for setting up an android penetration testing environment in your laptop. Definitely, I agree that this is a tough nut to crack. You might have faced several issues, whether it&amp;rsquo;s about installing Genymotion or about SSL Pinning bypass. Don&amp;rsquo;t worry we will cover all the steps to create a setup from scratch.</description>
+      <description>If you have got yourself a Mac to get better at hacking (of course ethically), then you might have already tried setting up an android penetration testing environment in your laptop. Definitely, I agree that this is a tough nut to crack. You might have faced several issues, whether it&amp;rsquo;s about installing Genymotion or about SSL Pinning bypass. Don&amp;rsquo;t worry we will cover all the steps to create a setup from scratch.</description>
     </item>
     
     <item>
@@ -33,8 +33,8 @@
       
       <guid>https://maheshjandwani.tech/about/</guid>
       <description>About Hello 👋 I’m Mahesh Jandwani. I live in Abu Road, Rajasthan.
-I’m a security engineer at ACKO working on the cloud and product security. I’ve done my studies in Computer Science and Engineering from the JECRC University of Jaipur, Rajasthan.
-Previously, I’ve worked as a Penetration Tester intern at ThreatHawk and Cloud Security Associate at Virtually Testing Foundation.
+I’m a security engineer at ACKO, working on cloud and product security. I’ve done my studies in Computer Science and Engineering at the JECRC University of Jaipur, Rajasthan.
+Previously, I’ve worked as a Penetration Tester intern at ThreatHawk and as a Cloud Security Associate at Virtually Testing Foundation.
 Contact You can reach me by email at maheshjhandwani9999@gmail.com. You can also connect with me on LinkedIn, GitHub, and Twitter.</description>
     </item>
     
