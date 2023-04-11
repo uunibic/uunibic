@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2023, Mahesh Jandwani</copyright>
-    <lastBuildDate>Sat, 08 Apr 2023 19:18:05 +0530</lastBuildDate><atom:link href="https://maheshjandwani.tech/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 19:18:05 +0530</lastBuildDate><atom:link href="https://maheshjandwani.tech/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penetrating the World of Android: MacBook M1 </title>
       <link>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</link>
-      <pubDate>Sat, 08 Apr 2023 19:18:05 +0530</pubDate>
+      <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
       
       <guid>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</guid>
       <description>If you have got yourself a Mac to get better at hacking (of course ethically), then you might have already tried setting up an android penetration testing environment in your laptop. Definitely, I agree that this is a tough nut to crack. You might have faced several issues, whether it&amp;rsquo;s about installing Genymotion or about SSL Pinning bypass. Don&amp;rsquo;t worry we will cover all the steps to create a setup from scratch.</description>
