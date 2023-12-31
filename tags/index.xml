@@ -6,43 +6,36 @@
     <description>Recent content in Tags on Mahesh Jandwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2023, Mahesh Jandwani</copyright>
-    <lastBuildDate>Mon, 10 Apr 2023 19:18:05 +0530</lastBuildDate><atom:link href="https://maheshjandwani.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2024, Mahesh Jandwani</copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 19:18:05 +0530</lastBuildDate>
+    <atom:link href="https://maheshjandwani.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>android</title>
       <link>https://maheshjandwani.tech/tags/android/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      
       <guid>https://maheshjandwani.tech/tags/android/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hacker</title>
-      <link>https://maheshjandwani.tech/tags/hacker/</link>
+      <title>macbook</title>
+      <link>https://maheshjandwani.tech/tags/macbook/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      
-      <guid>https://maheshjandwani.tech/tags/hacker/</guid>
+      <guid>https://maheshjandwani.tech/tags/macbook/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>mobile</title>
       <link>https://maheshjandwani.tech/tags/mobile/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      
       <guid>https://maheshjandwani.tech/tags/mobile/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>pentest</title>
       <link>https://maheshjandwani.tech/tags/pentest/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      
       <guid>https://maheshjandwani.tech/tags/pentest/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
