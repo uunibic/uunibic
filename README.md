@@ -7,4 +7,4 @@ Hi! I am Mahesh, and I love computers.
 - 🖥️ Currently working as a Security Engineer. 
 - 🏸 Still learning how to code and play badminton. 
 - 🔐 Have hands-on experience with Cloud and Application Security.
-- 📚 View my portfolio and blogs here: [maheshjandwani.tech](https://maheshjandwani.tech)
+- 📚 View my portfolio and read blogs here: [maheshjandwani.tech](https://maheshjandwani.tech)
