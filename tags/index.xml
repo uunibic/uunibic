@@ -2,40 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mahesh Jandwani</title>
-    <link>https://maheshjandwani.tech/tags/</link>
+    <link>https://maheshjandwani.in/tags/</link>
     <description>Recent content in Tags on Mahesh Jandwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Mahesh Jandwani</copyright>
     <lastBuildDate>Mon, 10 Apr 2023 19:18:05 +0530</lastBuildDate>
-    <atom:link href="https://maheshjandwani.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://maheshjandwani.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>android</title>
-      <link>https://maheshjandwani.tech/tags/android/</link>
+      <link>https://maheshjandwani.in/tags/android/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/tags/android/</guid>
+      
+      <guid>https://maheshjandwani.in/tags/android/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>macbook</title>
-      <link>https://maheshjandwani.tech/tags/macbook/</link>
+      <link>https://maheshjandwani.in/tags/macbook/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/tags/macbook/</guid>
+      
+      <guid>https://maheshjandwani.in/tags/macbook/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>mobile</title>
-      <link>https://maheshjandwani.tech/tags/mobile/</link>
+      <link>https://maheshjandwani.in/tags/mobile/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/tags/mobile/</guid>
+      
+      <guid>https://maheshjandwani.in/tags/mobile/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>pentest</title>
-      <link>https://maheshjandwani.tech/tags/pentest/</link>
+      <link>https://maheshjandwani.in/tags/pentest/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/tags/pentest/</guid>
+      
+      <guid>https://maheshjandwani.in/tags/pentest/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

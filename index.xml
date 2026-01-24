@@ -2,40 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahesh Jandwani</title>
-    <link>https://maheshjandwani.tech/</link>
+    <link>https://maheshjandwani.in/</link>
     <description>Recent content on Mahesh Jandwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Mahesh Jandwani</copyright>
     <lastBuildDate>Mon, 10 Apr 2023 19:18:05 +0530</lastBuildDate>
-    <atom:link href="https://maheshjandwani.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://maheshjandwani.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Penetrating the World of Android: MacBook M1 </title>
-      <link>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</link>
+      <link>https://maheshjandwani.in/post/android-pentest-setup-macbook-m1/</link>
       <pubDate>Mon, 10 Apr 2023 19:18:05 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/post/android-pentest-setup-macbook-m1/</guid>
+      
+      <guid>https://maheshjandwani.in/post/android-pentest-setup-macbook-m1/</guid>
       <description>If you have got yourself a Mac to get better at hacking (of course ethically), then you might have already tried setting up an android penetration testing environment in your laptop. Definitely, I agree that this is a tough nut to crack. You might have faced several issues, whether it&amp;rsquo;s about installing Genymotion or about SSL Pinning bypass. Don&amp;rsquo;t worry, we will cover all the steps to create a setup from scratch.</description>
     </item>
+    
     <item>
       <title>Application Security</title>
-      <link>https://maheshjandwani.tech/categories/application-security/</link>
+      <link>https://maheshjandwani.in/categories/application-security/</link>
       <pubDate>Sat, 08 Apr 2023 20:26:48 +0530</pubDate>
-      <guid>https://maheshjandwani.tech/categories/application-security/</guid>
+      
+      <guid>https://maheshjandwani.in/categories/application-security/</guid>
       <description></description>
     </item>
+    
     <item>
       <title></title>
-      <link>https://maheshjandwani.tech/about/</link>
+      <link>https://maheshjandwani.in/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maheshjandwani.tech/about/</guid>
-      <description>About Hello 👋 I’m Mahesh Jandwani. I live in Bangalore, Karnataka.&#xA;I’m a security engineer at Jupiter where my mission is to find aliens 👽 elevate the security standards in the ever-evolving fintech galaxy! I’ve completed my studies in Computer Science and Engineering at JECRC University in Jaipur, Rajasthan.&#xA;Previously, I’ve worked at the India&amp;rsquo;s leading insur-tech company Acko, primarily focusing on cloud and product security. In addition to this, I&amp;rsquo;ve had some cool internships 🚀 where I worked as a Penetration Tester intern at ThreatHawk and as a Cloud Security Associate at Virtually Testing Foundation.</description>
+      
+      <guid>https://maheshjandwani.in/about/</guid>
+      <description>About Hello 👋 I’m Mahesh. I live in Bangalore, Karnataka.
+I’m a Product Security Engineer at Amazon. I completed my studies in Computer Science and Engineering at JECRC University in Jaipur, Rajasthan.
+Previously, I worked at Jupiter, one of the top neobanks in India, and at Acko, India&amp;rsquo;s leading insur-tech company, primarily focusing on cloud and product security.
+Note: Views and opinions expressed on this blog are my own and do not represent my employer.</description>
     </item>
+    
     <item>
       <title></title>
-      <link>https://maheshjandwani.tech/certificates/my-certificates/</link>
+      <link>https://maheshjandwani.in/certificates/my-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maheshjandwani.tech/certificates/my-certificates/</guid>
-      <description>Certificates Google Cloud Certified Professional Cloud Security Engineer EC-Council - Certified Ethical Hacker v11 AWS Cloud Quest: Cloud Practitioner Google Workspace Security Microsoft Certified: Security Engineer Associate Microsoft Certified: Identity &amp;amp; Access Management Microsoft Certified: Azure Security Engineer Associate Microsoft 365 Certified: Security Administrator Microsoft Certified: Security Operations Analyst Associate Microsoft Certified: Security, Compliance, Identity Fundamentals CCNP: Core Networking CCNA v7: Introduction to Networks Cisco CyberOps Associate Cisco Cybersecurity Essentials Splunk Infrastructure Overview Splunk User Behaviour Analytics Splunk Fundamentals </description>
+      
+      <guid>https://maheshjandwani.in/certificates/my-certificates/</guid>
+      <description>Certificates  Google Cloud Certified Professional Cloud Security Engineer EC-Council - Certified Ethical Hacker v11 AWS Cloud Quest: Cloud Practitioner Google Workspace Security Microsoft Certified: Security Engineer Associate Microsoft Certified: Identity &amp;amp; Access Management Microsoft Certified: Azure Security Engineer Associate Microsoft 365 Certified: Security Administrator Microsoft Certified: Security Operations Analyst Associate Microsoft Certified: Security, Compliance, Identity Fundamentals CCNP: Core Networking CCNA v7: Introduction to Networks Cisco CyberOps Associate Cisco Cybersecurity Essentials Splunk Infrastructure Overview Splunk User Behaviour Analytics Splunk Fundamentals  </description>
     </item>
+    
   </channel>
 </rss>
